@@ -57,9 +57,9 @@ Before you begin, make sure you have the following installed:
 
 
 ## Installation
-You can download the [**repository**](https://github.com/vanhbakaa/Blum) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/isarail42/blum) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/vanhbakaa/Blum.git
+git clone https://github.com/isarail42/blum.git
 cd Blum
 ```
 
@@ -118,7 +118,7 @@ You can also use arguments for quick start, for example:
 ```
 > pkg update && pkg upgrade -y
 > pkg install python nodejs rust git -y
-> git clone https://github.com/vanhbakaa/Blum.git
+> git clone https://github.com/isarail42/blum.git
 > cd Blum
 > pip install -r requirements.txt
 > python main.py
@@ -137,12 +137,6 @@ You can also use arguments for quick start, for example:
 
 If you'd like to support the development of this project, please consider making a donation. Every little bit helps!
 
-👉 **[Click here to view donation options](https://github.com/vanhbakaa/Donation/blob/main/README.md)** 👈
-
 Your support allows us to keep improving the project and bring more features!
 
 Thank you for your generosity! 🙌
-
-### Contacts
-
-For support or questions, you can contact me [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/airdrop_tool_vanh)
